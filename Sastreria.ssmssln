@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1_Creacion_Sastreria", "1_Creacion_Sastreria\1_Creacion_Sastreria.ssmssqlproj", "{20D21FAE-E011-4BC5-B3D0-35A3CCAEC197}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "0_Mantenimiento", "0_Mantenimiento\0_Mantenimiento.ssmssqlproj", "{7B3421DB-413B-42C6-8FB6-BEB4E1F87128}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "2_Manipulacion", "2_Manipulacion\2_Manipulacion.ssmssqlproj", "{B105B738-8CDC-40F2-9532-9C965C025C65}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "3_Funciones", "3_Funciones\3_Funciones.ssmssqlproj", "{DFA2DBDF-3242-47A8-8795-95EC2688B5CB}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "4_Triggers", "4_Triggers\4_Triggers.ssmssqlproj", "{E7CA4C30-9224-481F-A8CD-1932E21E60DC}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "5_Procedimientos", "5_Procedimientos\5_Procedimientos.ssmssqlproj", "{BD262A51-1876-43E5-AFD9-DD21FAF3470E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09370FD0-17C0-458D-AF8B-D44D03A3CC04}.Default|Default.ActiveCfg = Default
+		{20D21FAE-E011-4BC5-B3D0-35A3CCAEC197}.Default|Default.ActiveCfg = Default
+		{7B3421DB-413B-42C6-8FB6-BEB4E1F87128}.Default|Default.ActiveCfg = Default
+		{B105B738-8CDC-40F2-9532-9C965C025C65}.Default|Default.ActiveCfg = Default
+		{DFA2DBDF-3242-47A8-8795-95EC2688B5CB}.Default|Default.ActiveCfg = Default
+		{E7CA4C30-9224-481F-A8CD-1932E21E60DC}.Default|Default.ActiveCfg = Default
+		{BD262A51-1876-43E5-AFD9-DD21FAF3470E}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2912C84F-B88D-4C7A-ACEB-A6C68702A661}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="5_Procedimientos">
+  <Items>
+    <LogicalFolder Name="Conexiones" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-A7H30AB:andre">
+          <Created>2023-08-01T21:51:57.3387608-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-A7H30AB</Server>
+          <UserName>andre</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="MASTER:sa">
+          <Created>2023-07-26T23:13:23.3182541-05:00</Created>
+          <Type>SQL</Type>
+          <Server>MASTER</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>SastreriaV1</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Consulta</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Consultas" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="1_Inicio_Sesion.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>1_Inicio_Sesion.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2_Venta_Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>2_Venta_Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3_Alquiler_Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>3_Alquiler_Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="4_Pedido_Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>4_Pedido_Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="5_Recibo_Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>5_Recibo_Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="6_Transac_Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>6_Transac_Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="7_Provee_Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>7_Provee_Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="8_Empleado_Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>8_Empleado_Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="9_Cliente_Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>9_Cliente_Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="91_Produc_Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>91_Produc_Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="92_ProPed_Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>92_ProPed_Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="93_Tela_Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>93_Tela_Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="94_categoria_Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>94_categoria_Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="95_genero_Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>95_genero_Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="96_documento_Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>96_documento_Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="97_condicion_Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>97_condicion_Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="98_comprobante_Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>98_comprobante_Code.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Varios" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

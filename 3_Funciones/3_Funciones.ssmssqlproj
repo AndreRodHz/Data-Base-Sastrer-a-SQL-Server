@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="3_Funciones">
+  <Items>
+    <LogicalFolder Name="Conexiones" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-A7H30AB:andre">
+          <Created>2023-08-01T21:51:11.5554288-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-A7H30AB</Server>
+          <UserName>andre</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="MASTER:sa">
+          <Created>2023-07-26T12:56:44.2785935-05:00</Created>
+          <Type>SQL</Type>
+          <Server>MASTER</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>SastreriaV1</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Consulta</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Consultas" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="1_Capitalizador.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>1_Capitalizador.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2_num_comprobante.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>2_num_comprobante.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3_serie_comprobante.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MASTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MASTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>3_serie_comprobante.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Varios" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
